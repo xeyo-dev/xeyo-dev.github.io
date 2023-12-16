@@ -1,0 +1,1 @@
+Veröffentliche deine eigenen Inhalte oder passe die vorhandenen deinen Bedürfnissen an. Um Inhalte zu veröffentlichen, zu bearbeiten oder zu löschen, musst du dich im [Administrationsbereich](./admin) anmelden (mit dem Benutzernamen `admin` und dem Passwort, das Du bei der Installation eingegeben hast).

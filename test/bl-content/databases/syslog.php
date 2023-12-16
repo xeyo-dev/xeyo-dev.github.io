@@ -1,0 +1,2 @@
+<?php defined('BLUDIT') or die('Bludit CMS.'); ?>
+[{"date":"2023-12-16 12:46:59","dictionaryKey":"settings-changes","notes":"","idExecution":"657d8e333664a","method":"POST","username":"admin"},{"date":"2023-12-16 12:46:38","dictionaryKey":"settings-changes","notes":"","idExecution":"657d8e1eafb51","method":"POST","username":"admin"},{"date":"2023-12-16 11:53:51","dictionaryKey":"welcome-to-bludit","notes":"","idExecution":"657d81bf9c07c","method":"POST","username":"admin"}]
