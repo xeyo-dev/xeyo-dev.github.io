@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Monaco statt Dosenravioli",
+    "description": "",
+    "home_page_url": "https://monaco-statt-dosenravio.li",
+    "feed_url": "https://monaco-statt-dosenravio.li/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "X."
+    },
+    "items": [
+        {
+            "id": "https://monaco-statt-dosenravio.li/monaco-statt-dosenravioli.html",
+            "url": "https://monaco-statt-dosenravio.li/monaco-statt-dosenravioli.html",
+            "title": "Monaco statt Dosenravioli",
+            "summary": "Du liebst Daytrading und willst dich mit uns über Aktien, ETFs, Futures, Forex oder Kryptos austauschen? Dann besuche unseren Daytrading-Discordserver. Nette Leute, garantiert kostenlos und&hellip;",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://monaco-statt-dosenravio.li/media/posts/1/dosenravioli-klein-2.jpg\" height=\"225\" width=\"225\" alt=\"\"  sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://monaco-statt-dosenravio.li/media/posts/1/responsive/dosenravioli-klein-2-xs.jpg 300w ,https://monaco-statt-dosenravio.li/media/posts/1/responsive/dosenravioli-klein-2-sm.jpg 480w ,https://monaco-statt-dosenravio.li/media/posts/1/responsive/dosenravioli-klein-2-md.jpg 768w ,https://monaco-statt-dosenravio.li/media/posts/1/responsive/dosenravioli-klein-2-lg.jpg 1024w\">\n      \n    </figure>\n\n  <p>\n    Du liebst Daytrading und willst dich mit uns über Aktien, ETFs, Futures, Forex oder Kryptos austauschen?\n<br>\n<br>Dann besuche unseren <a href=\"https://disboard.org/de/server/1162363075257716776\">Daytrading-Discordserver.</a>\n<br>\n<br>Nette Leute, garantiert kostenlos und als Bonus: ohne Trolle und Gurus! 👍\n  </p>",
+            "author": {
+                "name": "X."
+            },
+            "tags": [
+            ],
+            "date_published": "2023-12-16T14:22:27+01:00",
+            "date_modified": "2023-12-16T14:34:32+01:00"
+        }
+    ]
+}

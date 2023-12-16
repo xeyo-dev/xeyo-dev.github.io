@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Monaco statt Dosenravioli</title>
+    <link href="https://monaco-statt-dosenravio.li/feed.xml" rel="self" />
+    <link href="https://monaco-statt-dosenravio.li" />
+    <updated>2023-12-16T14:34:32+01:00</updated>
+    <author>
+        <name>X.</name>
+    </author>
+    <id>https://monaco-statt-dosenravio.li</id>
+
+    <entry>
+        <title>Monaco statt Dosenravioli</title>
+        <author>
+            <name>X.</name>
+        </author>
+        <link href="https://monaco-statt-dosenravio.li/monaco-statt-dosenravioli.html"/>
+        <id>https://monaco-statt-dosenravio.li/monaco-statt-dosenravioli.html</id>
+
+        <updated>2023-12-16T14:34:32+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Du liebst Daytrading und willst dich mit uns über Aktien, ETFs, Futures, Forex oder Kryptos austauschen? Dann besuche unseren Daytrading-Discordserver. Nette Leute, garantiert kostenlos und&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://monaco-statt-dosenravio.li/media/posts/1/dosenravioli-klein-2.jpg" height="225" width="225" alt=""  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://monaco-statt-dosenravio.li/media/posts/1/responsive/dosenravioli-klein-2-xs.jpg 300w ,https://monaco-statt-dosenravio.li/media/posts/1/responsive/dosenravioli-klein-2-sm.jpg 480w ,https://monaco-statt-dosenravio.li/media/posts/1/responsive/dosenravioli-klein-2-md.jpg 768w ,https://monaco-statt-dosenravio.li/media/posts/1/responsive/dosenravioli-klein-2-lg.jpg 1024w">
+      
+    </figure>
+
+  <p>
+    Du liebst Daytrading und willst dich mit uns über Aktien, ETFs, Futures, Forex oder Kryptos austauschen?
+<br>
+<br>Dann besuche unseren <a href="https://disboard.org/de/server/1162363075257716776">Daytrading-Discordserver.</a>
+<br>
+<br>Nette Leute, garantiert kostenlos und als Bonus: ohne Trolle und Gurus! 👍
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
